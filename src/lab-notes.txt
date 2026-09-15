@@ -1,0 +1,16 @@
+Predictions
+
+Trace1:
+3
+3.5
+3.0
+0.5
+0.3
+
+Trace2:
+10
+-1
+
+Trace3:
+Not an A 
+done
