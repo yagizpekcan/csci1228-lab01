@@ -14,3 +14,22 @@ Trace2:
 Trace3:
 Not an A 
 done
+
+Results
+
+Trace1:
+3
+3.5
+3.0
+0.5
+0.30000000000000004
+
+Trace2:
+10
+-1
+
+Trace3:
+done
+// I assumed it would be 
+//Not an A
+//done
