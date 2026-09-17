@@ -33,3 +33,6 @@ done
 // I assumed it would be 
 //Not an A
 //done
+
+Why is looking at the diff useful before a commit?
+To see what changed and if its working.
